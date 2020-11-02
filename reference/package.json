@@ -1,0 +1,27 @@
+{
+  "name": "reference",
+  "version": "1.0.0",
+  "description": "reference for express apps as seen on the web developer bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaryTheSeagull/express.git"
+  },
+  "author": "Nathan Renaud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LaryTheSeagull/express/issues"
+  },
+  "homepage": "https://github.com/LaryTheSeagull/express#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "ejs-mate": "^3.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.9",
+    "passport-local-mongoose": "^6.0.1",
+    "path": "^0.12.7"
+  }
+}
